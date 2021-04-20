@@ -1,0 +1,20 @@
+Project Title- Phoenix Traffic Accidents and Weather for 2019-2020
+Team Members-Seth Lynes, Ashley Aguayo, Samantha Sommer
+Project Description-Looking at weather to see what impact it has on traffic accidents in Phoenix, Arizona for 2019-2020.
+Research Questions to Answer-
+1.	Does weather have an effect on traffic accidents?
+2.	Is there a more dangerous season/weather type to drive in?
+3.	Severity of impact on traffic vs weather-rain vs clear? Wind?
+4.	Correlation between high temps and traffic accidents?
+5.	Where have most of the accidents occurred? 
+6.	When is the safest time to drive?
+7.	What was 2019 vs 2020 traffic accidents?
+Datasets to be used- OpenWeatherMap and Kaggle-US Accidents
+Rough Breakdown of Tasks-
+•	Download US Accidents csv trip csv
+•	Look at dataset and clean up-2019 & 2020 for Phx only
+•	Find out average, mode, median weather for each season
+•	Average number of accidents per day
+•	Get weather forecast (rain, cloudy, storm, etc) for high accident days
+•	Graph each question we want to answer
+•	Find out average, mode, median price for each season-correlation?
