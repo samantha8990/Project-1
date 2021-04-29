@@ -1,0 +1,104 @@
+,ID,TMC,Severity,Start_Time,End_Time,City,County,State,Zipcode,Country,Temperature(F),Visibility(mi),Wind_Speed(mph),Precipitation(in),Weather_Condition,Sunrise_Sunset,Stop,Traffic_Signal,Month,Day,Year,Season
+98,A-516241,201,3,2020-12-29,2020-12-29,Flagstaff,Coconino,AZ,86001,US,27.0,10.0,7.0,0.0,Cloudy,Night,False,False,12,29,2020,Winter
+319,A-524995,201,2,2020-12-21,2020-12-21,Flagstaff,Coconino,AZ,86004,US,52.0,10.0,7.0,0.0,Fair,Day,False,False,12,21,2020,Winter
+410,A-529604,201,3,2020-12-17,2020-12-17,Flagstaff,Coconino,AZ,86004,US,41.0,10.0,14.0,0.0,Fair,Day,False,False,12,17,2020,Winter
+554,A-535397,201,3,2020-12-13,2020-12-13,Flagstaff,Coconino,AZ,86005,US,26.0,10.0,14.0,0.0,Fair,Day,False,False,12,13,2020,Winter
+706,A-541007,201,3,2020-12-09,2020-12-09,Flagstaff,Coconino,AZ,86004,US,16.0,10.0,0.0,0.0,Fair,Night,False,False,12,9,2020,Winter
+1046,A-551253,201,4,2020-11-30,2020-11-30,Flagstaff,Coconino,AZ,86004,US,13.0,10.0,0.0,0.0,Fair,Day,False,False,11,30,2020,Autumn
+1221,A-557671,201,2,2020-11-24,2020-11-24,Kaibeto,Coconino,AZ,86053,US,42.0,10.0,3.0,0.0,Fair,Day,False,False,11,24,2020,Autumn
+1227,A-557677,241,3,2020-11-24,2020-11-24,Flagstaff,Coconino,AZ,86004,US,41.0,10.0,0.0,0.0,Fair,Day,False,False,11,24,2020,Autumn
+1362,A-562207,201,2,2020-11-20,2020-11-20,Sedona,Coconino,AZ,86336,US,70.0,10.0,8.0,0.0,Fair,Day,False,False,11,20,2020,Autumn
+1495,A-565641,201,2,2020-11-18,2020-11-18,Grand Canyon,Coconino,AZ,86023,US,53.0,10.0,13.0,0.0,Fair,Night,False,False,11,18,2020,Autumn
+1496,A-565642,201,3,2020-11-18,2020-11-18,Flagstaff,Coconino,AZ,86005,US,52.0,10.0,13.0,0.0,Fair,Night,False,False,11,18,2020,Autumn
+1497,A-565643,201,3,2020-11-18,2020-11-18,Flagstaff,Coconino,AZ,86001,US,52.0,10.0,13.0,0.0,Fair,Night,False,False,11,18,2020,Autumn
+1501,A-565647,201,3,2020-11-18,2020-11-18,Flagstaff,Coconino,AZ,86001,US,49.0,10.0,15.0,0.0,Fair,Night,False,False,11,18,2020,Autumn
+1750,A-574036,201,3,2020-11-12,2020-11-12,Flagstaff,Coconino,AZ,86001,US,49.0,10.0,0.0,0.0,Fair,Day,False,False,11,12,2020,Autumn
+2296,A-597773,201,3,2020-09-10,2020-09-10,Flagstaff,Coconino,AZ,86001,US,27.0,10.0,0.0,0.0,Fair,Day,False,False,9,10,2020,Autumn
+2380,A-600998,201,4,2020-09-13,2020-09-13,Flagstaff,Coconino,AZ,86004,US,39.0,10.0,0.0,0.0,Fair,Day,False,False,9,13,2020,Autumn
+2409,A-602446,201,3,2020-09-14,2020-09-14,Flagstaff,Coconino,AZ,86004,US,75.0,10.0,8.0,0.0,Fair,Day,False,False,9,14,2020,Autumn
+2410,A-602447,201,3,2020-09-14,2020-09-14,Flagstaff,Coconino,AZ,86004,US,75.0,10.0,8.0,0.0,Fair,Day,False,False,9,14,2020,Autumn
+2682,A-616713,201,2,2020-09-24,2020-09-24,Williams,Coconino,AZ,86046,US,39.0,10.0,0.0,0.0,Fair,Day,False,False,9,24,2020,Autumn
+2885,A-628971,201,3,2020-10-03,2020-10-03,Flagstaff,Coconino,AZ,86004,US,59.0,10.0,0.0,0.0,Fair,Night,False,False,10,3,2020,Autumn
+3083,A-637776,201,3,2020-10-09,2020-10-09,Flagstaff,Coconino,AZ,86005,US,71.0,10.0,12.0,0.0,Fair,Day,False,False,10,9,2020,Autumn
+3106,A-638568,201,2,2020-10-10,2020-10-10,Flagstaff,Coconino,AZ,86005,US,68.0,10.0,17.0,0.0,Fair,Day,False,False,10,10,2020,Autumn
+3110,A-639218,201,3,2020-10-11,2020-10-11,Flagstaff,Coconino,AZ,86005,US,46.0,10.0,6.0,0.0,Fair,Night,False,False,10,11,2020,Autumn
+3117,A-639225,201,2,2020-10-11,2020-10-11,Sedona,Coconino,AZ,86336,US,76.0,10.0,14.0,0.0,Fair,Day,False,False,10,11,2020,Autumn
+3161,A-640916,201,3,2020-10-12,2020-10-12,Flagstaff,Coconino,AZ,86004,US,57.0,10.0,0.0,0.0,Fair,Night,False,False,10,12,2020,Autumn
+3199,A-642704,201,3,2020-10-13,2020-10-13,Flagstaff,Coconino,AZ,86004,US,77.0,10.0,14.0,0.0,Fair,Day,False,False,10,13,2020,Autumn
+3263,A-644480,206,2,2020-10-14,2020-10-14,Flagstaff,Coconino,AZ,86001,US,79.0,10.0,9.0,0.0,Fair,Day,False,False,10,14,2020,Autumn
+3314,A-648385,201,2,2020-10-16,2020-10-16,Williams,Coconino,AZ,86046,US,45.0,10.0,5.0,0.0,Fair,Night,False,False,10,16,2020,Autumn
+3339,A-648410,201,2,2020-10-16,2020-10-16,Kaibeto,Coconino,AZ,86053,US,73.0,10.0,6.0,0.0,Fair,Day,False,False,10,16,2020,Autumn
+3390,A-651561,201,3,2020-10-19,2020-10-19,Williams,Coconino,AZ,86046,US,74.0,10.0,13.0,0.0,Fair,Day,False,False,10,19,2020,Autumn
+3401,A-651572,201,2,2020-10-19,2020-10-19,Sedona,Coconino,AZ,86336,US,78.0,10.0,6.0,0.0,Fair,Day,False,False,10,19,2020,Autumn
+3794,A-672258,201,3,2020-08-31,2020-08-31,Sedona,Coconino,AZ,86336,US,82.0,10.0,16.0,0.0,Partly Cloudy,Day,False,False,8,31,2020,Summer
+4871,A-712717,201,2,2020-08-02,2020-08-02,Sedona,Coconino,AZ,86336,US,79.0,10.0,9.0,0.0,Fair,Day,False,False,8,2,2020,Summer
+5048,A-722270,201,2,2020-08-10,2020-08-10,Sedona,Coconino,AZ,86336,US,61.0,10.0,3.0,0.0,Fair,Day,False,False,8,10,2020,Summer
+5057,A-722279,201,2,2020-08-10,2020-08-10,Flagstaff,Coconino,AZ,86001,US,82.0,10.0,18.0,0.0,Fair,Day,False,False,8,10,2020,Summer
+5075,A-723599,201,2,2020-08-11,2020-08-11,Williams,Coconino,AZ,86046,US,61.0,10.0,3.0,0.0,Fair,Day,False,False,8,11,2020,Summer
+5123,A-725157,201,3,2020-08-12,2020-08-12,Williams,Coconino,AZ,86046,US,83.0,10.0,16.0,0.0,Fair,Day,False,False,8,12,2020,Summer
+5316,A-734338,201,3,2020-08-19,2020-08-19,Williams,Coconino,AZ,86046,US,61.0,10.0,3.0,0.0,Fair,Night,False,False,8,19,2020,Summer
+5318,A-734340,241,3,2020-08-19,2020-08-19,Flagstaff,Coconino,AZ,86005,US,61.0,10.0,3.0,0.0,Fair,Night,False,False,8,19,2020,Summer
+5320,A-734342,241,3,2020-08-19,2020-08-19,Williams,Coconino,AZ,86046,US,61.0,10.0,3.0,0.0,Fair,Night,False,False,8,19,2020,Summer
+5327,A-734349,201,2,2020-08-19,2020-08-19,Munds Park,Coconino,AZ,86017,US,67.0,10.0,6.0,0.0,Fair,Day,False,False,8,19,2020,Summer
+5415,A-737327,201,4,2020-08-21,2020-08-21,Flagstaff,Coconino,AZ,86004,US,62.0,10.0,0.0,0.0,Fair,Day,False,False,8,21,2020,Summer
+5435,A-737347,201,3,2020-08-21,2020-08-21,Williams,Coconino,AZ,86046,US,68.0,10.0,13.0,0.0,Thunder,Day,False,False,8,21,2020,Summer
+5505,A-742621,201,3,2020-08-26,2020-08-26,Williams,Coconino,AZ,86046,US,50.0,10.0,0.0,0.0,Fair,Day,False,False,8,26,2020,Summer
+5511,A-742627,201,3,2020-08-26,2020-08-26,Williams,Coconino,AZ,86046,US,82.0,10.0,0.0,0.0,Partly Cloudy,Day,False,False,8,26,2020,Summer
+5516,A-742632,201,3,2020-08-26,2020-08-26,Flagstaff,Coconino,AZ,86004,US,84.0,10.0,5.0,0.0,Mostly Cloudy,Day,False,False,8,26,2020,Summer
+5518,A-742634,201,2,2020-08-26,2020-08-26,Sedona,Coconino,AZ,86336,US,93.0,10.0,0.0,0.0,Fair,Day,False,False,8,26,2020,Summer
+5588,A-746448,201,2,2020-08-29,2020-08-29,Sedona,Coconino,AZ,86336,US,76.0,10.0,12.0,0.0,Light Rain,Day,False,False,8,29,2020,Summer
+5593,A-746453,201,3,2020-08-29,2020-08-29,Munds Park,Coconino,AZ,86017,US,80.0,10.0,13.0,0.0,Fair,Day,False,False,8,29,2020,Summer
+5797,A-752489,201,4,2020-05-26,2020-05-26,Sedona,Coconino,AZ,86336,US,50.0,10.0,5.0,0.0,Fair,Night,False,False,5,26,2020,Spring
+5833,A-752525,201,2,2020-05-26,2020-05-26,Sedona,Coconino,AZ,86336,US,85.0,10.0,9.0,0.0,Fair,Day,False,False,5,26,2020,Spring
+5953,A-755458,201,2,2020-05-28,2020-05-28,Sedona,Coconino,AZ,86336,US,89.0,10.0,17.0,0.0,Fair,Day,False,False,5,28,2020,Spring
+6022,A-757565,241,3,2020-05-31,2020-05-31,Williams,Coconino,AZ,86046,US,48.0,10.0,0.0,0.0,Fair,Day,False,False,5,31,2020,Spring
+6392,A-768358,201,3,2020-05-08,2020-05-08,Flagstaff,Coconino,AZ,86005,US,38.0,10.0,0.0,0.0,Fair,Night,False,False,5,8,2020,Spring
+6416,A-768382,201,2,2020-05-08,2020-05-08,Sedona,Coconino,AZ,86336,US,77.0,10.0,3.0,0.0,Fair,Day,False,False,5,8,2020,Spring
+6439,A-768405,201,2,2020-05-08,2020-05-08,Flagstaff,Coconino,AZ,86001,US,64.0,10.0,5.0,0.0,Fair,Night,False,False,5,8,2020,Spring
+6497,A-770265,201,2,2020-05-11,2020-05-11,Flagstaff,Coconino,AZ,86004,US,66.0,10.0,23.0,0.0,Fair / Windy,Day,False,False,5,11,2020,Spring
+6523,A-771472,201,2,2020-05-12,2020-05-12,Sedona,Coconino,AZ,86336,US,70.0,10.0,15.0,0.0,Fair,Day,False,False,5,12,2020,Spring
+6536,A-771485,201,3,2020-05-12,2020-05-12,Flagstaff,Coconino,AZ,86005,US,67.0,10.0,21.0,0.0,Fair / Windy,Day,False,False,5,12,2020,Spring
+6893,A-781709,201,2,2020-05-21,2020-05-21,Kaibeto,Coconino,AZ,86053,US,53.0,10.0,0.0,0.0,Fair,Night,False,False,5,21,2020,Spring
+7120,A-786529,201,2,2020-06-19,2020-06-19,Flagstaff,Coconino,AZ,86001,US,76.0,10.0,8.0,0.0,Fair,Day,False,False,6,19,2020,Summer
+7121,A-786530,241,3,2020-06-19,2020-06-19,Flagstaff,Coconino,AZ,86001,US,76.0,10.0,8.0,0.0,Fair,Day,False,False,6,19,2020,Summer
+7235,A-790652,201,3,2020-06-23,2020-06-23,Williams,Coconino,AZ,86046,US,67.0,10.0,0.0,0.0,Fair,Night,False,False,6,23,2020,Summer
+7485,A-799133,201,3,2020-06-30,2020-06-30,Williams,Coconino,AZ,86046,US,46.0,10.0,0.0,0.0,Mostly Cloudy,Night,False,False,6,30,2020,Summer
+7882,A-812030,201,2,2020-06-16,2020-06-16,Kaibeto,Coconino,AZ,86053,US,73.0,10.0,5.0,0.0,Fair,Night,False,False,6,16,2020,Summer
+7924,A-813479,201,3,2020-06-17,2020-06-17,Flagstaff,Coconino,AZ,86004,US,57.0,10.0,9.0,0.0,Fair,Day,False,False,6,17,2020,Summer
+7933,A-813488,201,3,2020-06-17,2020-06-17,Flagstaff,Coconino,AZ,86001,US,57.0,10.0,9.0,0.0,Fair,Day,False,False,6,17,2020,Summer
+7971,A-814985,201,2,2020-06-18,2020-06-18,Sedona,Coconino,AZ,86336,US,62.0,10.0,8.0,0.0,Fair,Night,False,False,6,18,2020,Summer
+8011,A-815025,201,3,2020-06-18,2020-06-18,Flagstaff,Coconino,AZ,86001,US,74.0,10.0,6.0,0.0,Fair,Day,False,False,6,18,2020,Summer
+8040,A-817022,201,2,2020-03-04,2020-03-04,Flagstaff,Coconino,AZ,86001,US,25.0,10.0,0.0,0.0,Fair,Night,False,False,3,4,2020,Spring
+8485,A-832121,343,4,2020-03-13,2020-03-13,Williams,Coconino,AZ,86046,US,33.0,0.75,16.0,0.11,Light Snow,Night,False,False,3,13,2020,Spring
+8598,A-836432,201,3,2020-03-17,2020-03-17,Flagstaff,Coconino,AZ,86004,US,37.0,10.0,12.0,0.0,Fair,Night,False,False,3,17,2020,Spring
+8622,A-836456,201,3,2020-03-17,2020-03-17,Flagstaff,Coconino,AZ,86004,US,40.0,10.0,17.0,0.0,Partly Cloudy,Day,False,False,3,17,2020,Spring
+8660,A-837848,201,3,2020-03-18,2020-03-18,Flagstaff,Coconino,AZ,86004,US,32.0,0.75,12.0,0.02,Light Snow,Day,False,False,3,18,2020,Spring
+8690,A-837878,201,2,2020-03-18,2020-03-18,Williams,Coconino,AZ,86046,US,32.0,1.0,3.0,0.01,Light Snow,Day,False,False,3,18,2020,Spring
+8699,A-839267,241,3,2020-03-19,2020-03-19,Williams,Coconino,AZ,86046,US,28.0,0.75,9.0,0.02,Light Snow,Night,False,False,3,19,2020,Spring
+8703,A-839271,241,3,2020-03-19,2020-03-19,Williams,Coconino,AZ,86046,US,28.0,0.75,9.0,0.02,Light Snow,Night,False,False,3,19,2020,Spring
+8852,A-843022,201,3,2020-03-23,2020-03-23,Sedona,Coconino,AZ,86336,US,54.0,10.0,28.0,0.0,Mostly Cloudy / Windy,Day,False,False,3,23,2020,Spring
+8912,A-844279,201,2,2020-03-24,2020-03-24,Flagstaff,Coconino,AZ,86001,US,45.0,10.0,14.0,0.0,Fair,Day,False,False,3,24,2020,Spring
+9106,A-848405,201,3,2020-04-02,2020-04-02,Flagstaff,Coconino,AZ,86001,US,53.0,10.0,20.0,0.0,Fair,Day,False,False,4,2,2020,Spring
+9107,A-848406,201,3,2020-04-02,2020-04-02,Williams,Coconino,AZ,86046,US,53.0,10.0,20.0,0.0,Fair,Day,False,False,4,2,2020,Spring
+9186,A-850042,201,3,2020-04-04,2020-04-04,Flagstaff,Coconino,AZ,86004,US,54.0,10.0,21.0,0.0,Fair / Windy,Day,False,False,4,4,2020,Spring
+9444,A-858156,201,2,2020-04-13,2020-04-13,Forest Lakes,Coconino,AZ,85931,US,46.0,10.0,5.0,0.0,Cloudy,Night,False,False,4,13,2020,Spring
+9537,A-860357,201,2,2020-04-15,2020-04-15,Flagstaff,Coconino,AZ,86004,US,17.0,10.0,0.0,0.0,Fair,Day,False,False,4,15,2020,Spring
+9590,A-861467,201,3,2020-04-16,2020-04-16,Flagstaff,Coconino,AZ,86004,US,55.0,10.0,20.0,0.0,Fair,Day,False,False,4,16,2020,Spring
+9592,A-861469,201,3,2020-04-16,2020-04-16,Flagstaff,Coconino,AZ,86004,US,57.0,10.0,16.0,0.0,Fair,Day,False,False,4,16,2020,Spring
+9678,A-864533,201,3,2020-04-20,2020-04-20,Flagstaff,Coconino,AZ,86005,US,34.0,10.0,0.0,0.0,Fair,Day,False,False,4,20,2020,Spring
+9725,A-865607,201,2,2020-04-21,2020-04-21,Williams,Coconino,AZ,86046,US,28.0,10.0,0.0,0.0,Fair,Day,False,False,4,21,2020,Spring
+9765,A-865647,201,3,2020-04-21,2020-04-21,Flagstaff,Coconino,AZ,86005,US,51.0,10.0,7.0,0.0,Fair,Day,False,False,4,21,2020,Spring
+9773,A-866737,201,2,2020-04-22,2020-04-22,Williams,Coconino,AZ,86046,US,49.0,10.0,0.0,0.0,Fair,Day,False,False,4,22,2020,Spring
+9922,A-870018,241,4,2020-04-26,2020-04-26,Flagstaff,Coconino,AZ,86004,US,66.0,10.0,13.0,0.0,Fair,Day,False,False,4,26,2020,Spring
+10200,A-878522,201,2,2020-03-03,2020-03-03,Kaibeto,Coconino,AZ,86053,US,53.0,10.0,3.0,0.0,Fair,Day,False,False,3,3,2020,Spring
+10245,A-879372,201,3,2020-01-04,2020-01-04,Williams,Coconino,AZ,86046,US,48.0,10.0,12.0,0.0,Fair,Day,False,False,1,4,2020,Winter
+10286,A-881711,201,3,2020-01-06,2020-01-06,Flagstaff,Coconino,AZ,86004,US,36.0,10.0,15.0,0.0,Fair,Day,False,False,1,6,2020,Winter
+10446,A-887977,201,2,2020-01-09,2020-01-09,Flagstaff,Coconino,AZ,86004,US,25.0,10.0,5.0,0.0,Mostly Cloudy,Night,False,False,1,9,2020,Winter
+10490,A-888021,201,2,2020-01-09,2020-01-09,Flagstaff,Coconino,AZ,86001,US,29.0,10.0,7.0,0.0,Cloudy,Day,False,False,1,9,2020,Winter
+11242,A-916765,206,3,2020-01-26,2020-01-26,Flagstaff,Coconino,AZ,86004,US,50.0,10.0,8.0,0.0,Fair,Day,False,False,1,26,2020,Winter
+11610,A-927917,201,3,2020-02-01,2020-02-01,Flagstaff,Coconino,AZ,86004,US,31.0,10.0,7.0,0.0,Fair,Night,False,False,2,1,2020,Winter
+12828,A-966950,241,3,2020-02-22,2020-02-22,Flagstaff,Coconino,AZ,86004,US,32.0,10.0,8.0,0.0,Cloudy,Night,False,False,2,22,2020,Winter
+12835,A-967543,201,2,2020-02-23,2020-02-23,Grand Canyon,Coconino,AZ,86023,US,43.0,10.0,9.0,0.0,Fair,Day,False,False,2,23,2020,Winter
+12914,A-971615,343,4,2020-02-25,2020-02-25,Flagstaff,Coconino,AZ,86004,US,26.0,10.0,0.0,0.0,Fair,Night,False,False,2,25,2020,Winter
+13234,A-980441,406,3,2020-01-02,2020-01-02,Flagstaff,Coconino,AZ,86001,US,23.0,10.0,0.0,0.0,Partly Cloudy,Night,False,False,1,2,2020,Winter
+13240,A-980447,201,2,2020-01-02,2020-01-02,Flagstaff,Coconino,AZ,86001,US,15.0,10.0,0.0,0.0,Fair,Night,False,False,1,2,2020,Winter
